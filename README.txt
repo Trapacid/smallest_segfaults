@@ -1,1 +1,1 @@
-01: this works because you're trying to free memory that isn't allocated or reserved
+01: this works because you're trying to free an invalid pointer/array (** == [])
